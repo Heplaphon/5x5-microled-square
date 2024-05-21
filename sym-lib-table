@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "microled-square")(type "KiCad")(uri "${KIPRJMOD}/library/schematic/microled-square.kicad_sym")(options "")(descr ""))
+)
