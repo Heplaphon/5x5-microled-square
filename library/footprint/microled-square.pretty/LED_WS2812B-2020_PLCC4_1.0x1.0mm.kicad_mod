@@ -1,4 +1,4 @@
-(footprint "LED_WS2812B-1010_1.0x1.0mm"
+(footprint "LED_WS2812B-2020_PLCC4_1.0x1.0mm"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -17,7 +17,7 @@
 			)
 		)
 	)
-	(property "Value" "LED_WS2812B-1010_1.0x1.0mm"
+	(property "Value" "LED_WS2812B-2020_PLCC4_1.0x1.0mm"
 		(at 0.225 2.425 0)
 		(layer "F.Fab")
 		(uuid "11f34c85-b80f-46bd-b71d-beeef7ef25a2")
@@ -166,6 +166,17 @@
 		)
 		(scale
 			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/library/3d/WS2812B.step"
+		(offset
+			(xyz -1.7 0.4 0)
+		)
+		(scale
+			(xyz 0.2 0.2 0.3)
 		)
 		(rotate
 			(xyz 0 0 0)

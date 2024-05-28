@@ -126,7 +126,7 @@
 		(property "Reference" "U1"
 			(at 9.3345 -21.7805 0)
 			(layer "F.SilkS")
-			(uuid "a23cc025-3d53-40e0-80fa-bb65b83df252")
+			(uuid "d490a411-5899-4a96-b0d6-8a5cb93e2c2f")
 			(effects
 				(font
 					(size 0.7 0.7)
@@ -137,7 +137,7 @@
 		(property "Value" "MOUDLE-SEEEDUINO-XIAO-ESP32S3"
 			(at 8.89 -10.795 0)
 			(layer "F.Fab")
-			(uuid "611039e1-3671-47bc-bde4-3f4670f64957")
+			(uuid "d7fd6e60-cfe1-4797-bb05-91c0665a9088")
 			(effects
 				(font
 					(size 0.48 0.48)
@@ -150,7 +150,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6f6b2f4d-8fe7-46ab-a87e-66e38b766928")
+			(uuid "bdf5c98a-bf48-4e5d-967c-840e34abb381")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -162,7 +162,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aa61b182-708e-4951-ace6-a3aee208a357")
+			(uuid "44a389d6-40d4-47e0-8088-c63963fa9af4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -174,7 +174,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "48402de7-8ff1-4358-b630-dca046af965d")
+			(uuid "5b21a393-ca28-4805-9085-5bbb86fa6bfc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -182,8 +182,6 @@
 			)
 		)
 		(path "/7c435a05-0272-4ca3-bbf2-07eafd2c1994")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0 -20.3285)
@@ -193,7 +191,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9516db9d-5957-4b17-a379-56a2bb6df519")
+			(uuid "b2b62570-c580-46d4-ac13-ee32132377b1")
 		)
 		(fp_line
 			(start 0 0.15)
@@ -203,7 +201,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "993bc5fe-be8b-4d5e-a7bf-0953e06b972e")
+			(uuid "67760cc7-2084-4252-af41-4807ad9119c4")
 		)
 		(fp_line
 			(start 0.671541 -21)
@@ -213,7 +211,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "de038765-0129-474e-b605-890bc333aed6")
+			(uuid "3971ef76-1aca-4c20-8f21-9ce4b88266f1")
 		)
 		(fp_line
 			(start 4.396 -15.072)
@@ -223,7 +221,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e356fa59-8f58-40db-8889-79cbafb65b6d")
+			(uuid "8344a0e6-43dc-497a-b1c5-f4309ca95ef2")
 		)
 		(fp_line
 			(start 4.4 -22.424)
@@ -233,7 +231,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "022c70fc-de8f-4ca8-93ae-53b29939543c")
+			(uuid "cafbb317-ab10-4b01-a3b5-f254a6cfe9b8")
 		)
 		(fp_line
 			(start 13.395 -22.424)
@@ -243,7 +241,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "fe704dd8-fd84-46b0-a972-441818addf54")
+			(uuid "fb2761fb-1865-4e03-9fc2-b5986e1262e5")
 		)
 		(fp_line
 			(start 13.395 -15.072)
@@ -253,7 +251,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f6653a1a-3b88-471c-9460-984020525229")
+			(uuid "79aed220-4e3f-4de3-b0d3-fa9abbecd9f3")
 		)
 		(fp_line
 			(start 17.8 -21)
@@ -263,7 +261,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3b7c7842-e1ed-43c3-bbe4-9e7f93c5241b")
+			(uuid "6f48a3f8-4625-4e2b-937b-23be8d11679b")
 		)
 		(fp_line
 			(start 17.8 0.15)
@@ -273,7 +271,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c13c62a8-6095-4183-a232-dd67b7fa8d9e")
+			(uuid "0fada75c-afda-4adc-b8eb-f6b8d1072daa")
 		)
 		(fp_circle
 			(center -0.889 -18.161)
@@ -284,7 +282,7 @@
 			)
 			(fill solid)
 			(layer "Dwgs.User")
-			(uuid "0123eb0e-0009-4f30-84c3-3ad067adb958")
+			(uuid "5d3d6e6d-ff33-4b3e-8e40-959c86859ebb")
 		)
 		(fp_poly
 			(pts
@@ -296,7 +294,7 @@
 			)
 			(fill solid)
 			(layer "F.CrtYd")
-			(uuid "a0cfd495-d1c0-4ef0-8fce-22f8113e74a6")
+			(uuid "779c920f-a193-4282-9f5b-545530301d53")
 		)
 		(pad "1" smd roundrect
 			(at 0.835 -18.12)
@@ -306,7 +304,7 @@
 			(net 3 "data")
 			(pinfunction "PA02_A0_D0")
 			(pintype "bidirectional")
-			(uuid "31b8988f-795f-4c4c-b67a-8123ce7b09e3")
+			(uuid "caf5b8fa-9776-4abb-8d48-25935738a032")
 		)
 		(pad "2" smd roundrect
 			(at 0.835 -15.58)
@@ -316,7 +314,7 @@
 			(net 34 "unconnected-(U1-PA4_A1_D1-Pad2)")
 			(pinfunction "PA4_A1_D1")
 			(pintype "bidirectional")
-			(uuid "7d0186c9-bf5b-4f3a-9782-f235f84b478f")
+			(uuid "91e845e2-c547-4b91-aad7-379828b1d555")
 		)
 		(pad "3" smd roundrect
 			(at 0.835 -13.04)
@@ -326,7 +324,7 @@
 			(net 38 "unconnected-(U1-PA10_A2_D2-Pad3)")
 			(pinfunction "PA10_A2_D2")
 			(pintype "bidirectional")
-			(uuid "de45dc62-3de6-447d-ad5d-b225b15f20e9")
+			(uuid "49c91223-a01f-4c01-aff9-a013a6f3185a")
 		)
 		(pad "4" smd roundrect
 			(at 0.835 -10.5)
@@ -336,7 +334,7 @@
 			(net 32 "unconnected-(U1-PA11_A3_D3-Pad4)")
 			(pinfunction "PA11_A3_D3")
 			(pintype "bidirectional")
-			(uuid "596f02e4-3fd7-4877-9971-bbbb48d133b1")
+			(uuid "e6ae6f47-2563-4777-8dea-36d90b0d5cd5")
 		)
 		(pad "5" smd roundrect
 			(at 0.835 -7.96)
@@ -346,7 +344,7 @@
 			(net 31 "unconnected-(U1-PA8_A4_D4_SDA-Pad5)")
 			(pinfunction "PA8_A4_D4_SDA")
 			(pintype "bidirectional")
-			(uuid "24cb0d03-c109-420a-9695-531f23c725f2")
+			(uuid "ceaa7a70-c05a-4689-b6ae-b06a8a0511ab")
 		)
 		(pad "6" smd roundrect
 			(at 0.835 -5.42)
@@ -356,7 +354,7 @@
 			(net 39 "unconnected-(U1-PA9_A5_D5_SCL-Pad6)")
 			(pinfunction "PA9_A5_D5_SCL")
 			(pintype "bidirectional")
-			(uuid "e9c38ca2-4605-4b89-aab6-29f20dd8e975")
+			(uuid "a3923003-49e5-40e9-ab5c-c0c8a6e3dc69")
 		)
 		(pad "7" smd roundrect
 			(at 0.835 -2.88)
@@ -366,7 +364,7 @@
 			(net 29 "unconnected-(U1-PB08_A6_TX-Pad7)")
 			(pinfunction "PB08_A6_TX")
 			(pintype "bidirectional")
-			(uuid "0ce90b05-a1e4-4c4b-8509-fe0a907fee05")
+			(uuid "7919b32a-cdfd-454d-80e9-938ccc77f8fc")
 		)
 		(pad "8" smd roundrect
 			(at 17 -2.88)
@@ -376,7 +374,7 @@
 			(net 30 "unconnected-(U1-PB09_D7_RX-Pad8)")
 			(pinfunction "PB09_D7_RX")
 			(pintype "bidirectional")
-			(uuid "18a1df87-2b10-4f86-8352-de42599591a5")
+			(uuid "be82832b-35f4-4dbc-a485-6a2cc359dee3")
 		)
 		(pad "9" smd roundrect
 			(at 17 -5.42)
@@ -386,7 +384,7 @@
 			(net 37 "unconnected-(U1-PA7_A8_D8_SCK-Pad9)")
 			(pinfunction "PA7_A8_D8_SCK")
 			(pintype "bidirectional")
-			(uuid "ba87b366-869d-4f67-8e2d-79030661db46")
+			(uuid "4d02506c-6a1b-4250-a3e8-b9a97795589e")
 		)
 		(pad "10" smd roundrect
 			(at 17 -7.96)
@@ -396,7 +394,7 @@
 			(net 35 "unconnected-(U1-PA5_A9_D9_MISO-Pad10)")
 			(pinfunction "PA5_A9_D9_MISO")
 			(pintype "bidirectional")
-			(uuid "8fedaee3-91ef-4682-813c-012513a95007")
+			(uuid "55269edc-17f7-4cb9-aea7-b1820570fed0")
 		)
 		(pad "11" smd roundrect
 			(at 17 -10.5)
@@ -406,7 +404,7 @@
 			(net 33 "unconnected-(U1-PA6_A10_D10_MOSI-Pad11)")
 			(pinfunction "PA6_A10_D10_MOSI")
 			(pintype "bidirectional")
-			(uuid "728e7052-45a2-4c17-91f5-3f5b1689ec37")
+			(uuid "a02fe6f9-a72a-499c-a550-5ed4c6449078")
 		)
 		(pad "12" smd roundrect
 			(at 17 -13.04)
@@ -416,7 +414,7 @@
 			(net 36 "unconnected-(U1-3V3-Pad12)")
 			(pinfunction "3V3")
 			(pintype "bidirectional")
-			(uuid "92e3334a-82a2-4832-bbf0-5eedf5f26d9c")
+			(uuid "02db6f09-bf1a-4a29-abbd-301db9482a9e")
 		)
 		(pad "13" smd roundrect
 			(at 17 -15.58)
@@ -426,7 +424,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "bidirectional")
-			(uuid "09f0e09b-bfea-4c48-b87a-af9cd4a3ead3")
+			(uuid "483ae27c-0a7b-4ca1-8c43-74e993a3b293")
 		)
 		(pad "14" smd roundrect
 			(at 17 -18.12)
@@ -436,13 +434,13 @@
 			(net 1 "VDD")
 			(pinfunction "5V")
 			(pintype "bidirectional")
-			(uuid "74b0ee5f-fd31-4ecb-874b-68628d13e97c")
+			(uuid "b9ec9fd1-300f-4489-97de-fd63f0e440c3")
 		)
 		(zone
 			(net 0)
 			(net_name "")
 			(layer "F.Cu")
-			(uuid "6a6ce983-fe71-4b29-8736-734591cb5add")
+			(uuid "3b61fe87-77bb-485c-9929-c955a28c483d")
 			(hatch full 0.508)
 			(connect_pads
 				(clearance 0)
@@ -470,7 +468,7 @@
 			(net 0)
 			(net_name "")
 			(layer "F.Cu")
-			(uuid "304af4bb-e912-4831-9f84-54d391c406b5")
+			(uuid "1605d3af-c949-4d8a-9c5d-0a4084ccac80")
 			(hatch full 0.508)
 			(connect_pads
 				(clearance 0)
@@ -498,7 +496,7 @@
 			(net 0)
 			(net_name "")
 			(layer "F.Cu")
-			(uuid "08db3998-5ce2-431c-8251-c2be955cd6a6")
+			(uuid "a42d69b3-8f7c-4822-9a59-0b2f003f744c")
 			(hatch full 0.508)
 			(connect_pads
 				(clearance 0)
@@ -526,7 +524,7 @@
 			(net 0)
 			(net_name "")
 			(layer "F.Cu")
-			(uuid "953db54d-3c48-4fa5-aeb4-8f5c8beee947")
+			(uuid "d7ed0cb5-e0fa-459b-bd58-6768f933acc8")
 			(hatch full 0.508)
 			(connect_pads
 				(clearance 0)
@@ -554,7 +552,7 @@
 			(net 0)
 			(net_name "")
 			(layer "F.Cu")
-			(uuid "1c5fe191-ddc8-4899-9c3d-0432159fa84f")
+			(uuid "ee367065-7e2f-40de-a3d8-bde9b29a8cdc")
 			(hatch full 0.508)
 			(connect_pads
 				(clearance 0)
@@ -582,7 +580,7 @@
 			(net 0)
 			(net_name "")
 			(layer "F.Cu")
-			(uuid "e395f845-6bc3-4abe-aa77-b1de279c08ac")
+			(uuid "0315f191-7420-472c-8ab9-eaca0e68de59")
 			(hatch full 0.508)
 			(connect_pads
 				(clearance 0)
@@ -610,7 +608,7 @@
 			(net 0)
 			(net_name "")
 			(layer "F.Cu")
-			(uuid "086d950b-8665-460c-b21f-32ea029e65d5")
+			(uuid "adf7624f-ace2-4cf6-92ea-b334ba23efdb")
 			(hatch full 0.508)
 			(connect_pads
 				(clearance 0)
@@ -632,6 +630,17 @@
 				(pts
 					(xy 41.484 25.902) (xy 43.262 25.902) (xy 43.262 28.569) (xy 41.484 28.569)
 				)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/XIAO-ESP32S3 v2.step"
+			(offset
+				(xyz 15 8.7 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 -90)
 			)
 		)
 	)
@@ -1153,7 +1162,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "0e86548c-d498-4ba5-a813-e482a615a2b7")
+			(uuid "0773c671-49c4-4eeb-ad28-baf57e4fc161")
 			(effects
 				(font
 					(size 1 1)
@@ -1165,7 +1174,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "d32af014-738c-4a5e-bead-45676f9cfbb8")
+			(uuid "eb6dc931-4872-4547-b701-c2efddc8bd2d")
 			(effects
 				(font
 					(size 1 1)
@@ -1179,7 +1188,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "5dad8ea4-5d77-440b-94d8-6e3c94aedfd0")
+			(uuid "46883eff-33cc-4d27-b5e2-44b7ae2dad62")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1192,7 +1201,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "017fb58a-7626-4e40-b031-fb7296a9a326")
+			(uuid "5bb019d0-57dc-42a8-8fe8-fbd236b9400f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1205,7 +1214,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1a751069-25dc-4e54-bfdb-d4515139d6ec")
+			(uuid "9ed4476a-ed13-4289-a0f3-4c3aac411258")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1213,10 +1222,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/ba4051ad-aeba-41f9-a797-da95210a9ea6")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -1226,7 +1232,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "6a51dcb1-b4be-4a17-b2a3-b8b310571f5c")
+			(uuid "b3f9ec8b-d18a-4a42-a37e-8be8b0060bd9")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -1236,7 +1242,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "f8bd369e-a5d0-41c2-a085-9ffc4bc7464a")
+			(uuid "13648867-31c9-49b7-9213-01821fc308ef")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -1246,7 +1252,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "56521976-e8dd-4869-a4c2-7245df65b64f")
+			(uuid "c8326e41-120b-4ded-9ee5-5b8e6f658932")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -1256,7 +1262,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "d1ae41ce-b5ce-4642-a4e9-607056f448b6")
+			(uuid "8bd59e23-62b3-48a0-8a8a-efa1c693616a")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -1266,7 +1272,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "48c2489e-6db4-4422-b7a3-75de7ae57885")
+			(uuid "0cd2dda0-70f0-420b-9caa-c3b7df892eea")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -1276,12 +1282,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "c7a11532-f2b0-49b2-904e-83652034624e")
+			(uuid "6f26a6f1-ba4d-4995-ae78-54c4f62dcd69")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "0fbaa986-c3a1-4026-89ab-4b7c1835e688")
+			(uuid "33b2e7d9-06c7-4a3e-a5f8-e4ff949785cc")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -1297,7 +1303,7 @@
 			(net 4 "Net-(D1-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "a9edcd88-152b-429e-a0f2-bfd226ad3f52")
+			(uuid "61df7748-7504-4018-bcfa-8734e1d17617")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -1306,7 +1312,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "915379a0-b85b-475b-bdbd-23d32023dd2e")
+			(uuid "a51f90a7-b393-49e2-8192-3861b42cb064")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -1315,7 +1321,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "65852521-c2e1-407a-954f-b8618dc6da0b")
+			(uuid "81243816-bd98-4b06-954c-1ad184eecef6")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -1324,7 +1330,7 @@
 			(net 3 "data")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "8a211d98-955a-4aed-8fa2-22d2d301196e")
+			(uuid "d7124e9e-12e8-49dd-af14-a78f28940a59")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -1332,6 +1338,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -1348,7 +1365,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "09f04858-30e6-4751-9cc2-27d8d73fc69f")
+			(uuid "b424e322-df94-4ba5-a7d9-f48c50619687")
 			(effects
 				(font
 					(size 1 1)
@@ -1360,7 +1377,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "3d17b657-1275-450f-a1d2-5c5ba4afef6d")
+			(uuid "7710d30d-b408-4df8-a46a-04cb9f1c2875")
 			(effects
 				(font
 					(size 1 1)
@@ -1374,7 +1391,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8c8cd187-ef82-4b70-9cc8-bb12f513d207")
+			(uuid "de3a3d65-aa36-4a18-8efb-5cfe9b8e6c3d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1387,7 +1404,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8849cf77-e042-47c6-9931-12ea67749815")
+			(uuid "73201587-4fb9-4340-826e-2d9a58ddc82e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1400,7 +1417,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "87cfcb4e-1b34-4c92-8661-06c29c2242a2")
+			(uuid "cf31a714-9af5-4737-81a1-476eec7c95b8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1408,10 +1425,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/4aba6aae-fa2a-4312-95f2-07734a1fee82")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -1421,7 +1435,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "0196cf3c-9f37-473a-879e-572cbdbb08e6")
+			(uuid "989c0135-699c-4d74-8f1c-9dbe19b28bd5")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -1431,7 +1445,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "fa790d77-ba9f-4e50-a1bd-da22221de13b")
+			(uuid "5b4c8e72-51b3-4919-947d-764e99eec6a4")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -1441,7 +1455,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "29954bdf-be4a-4a93-b471-2046f5c7a205")
+			(uuid "b1885eca-a022-4962-8f60-25b284f4b2be")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -1451,7 +1465,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "a8303b1f-0a38-4218-ac6b-7601bd425197")
+			(uuid "f99b96b9-003e-4edd-899b-c465fb03440b")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -1461,7 +1475,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "7c0f887f-52b8-4503-bcbe-742c8a7d2863")
+			(uuid "786f4a86-735f-4103-a477-d3db5058c4a3")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -1471,12 +1485,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "a9cb45c2-749e-4bf3-926d-20aa0e8e724c")
+			(uuid "c3cf9f79-f9ce-44c2-8a12-a5ddc34b73d6")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "b1278924-179e-41b1-8ac3-bccd188235d4")
+			(uuid "eac4be84-7e9d-4e31-9ec3-9a6c15b184f8")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -1492,7 +1506,7 @@
 			(net 21 "Net-(D18-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "36f0f239-638f-4a84-b3e4-10edd3823dd0")
+			(uuid "9a4d2091-9e3b-4361-8b4b-42f94c6c7b20")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -1501,7 +1515,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "203e5bb2-e409-480e-b040-147ac97cf9af")
+			(uuid "0e7da067-a7a8-4e14-9e19-b503ab367dd5")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -1510,7 +1524,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "b3a6e541-b1aa-41f6-bc34-a6bcf298cbc0")
+			(uuid "f6d70f02-a073-4f58-a295-9cc498fc6fdf")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -1519,7 +1533,7 @@
 			(net 20 "Net-(D17-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "4fb0d554-5a18-41ed-a3af-97f107692466")
+			(uuid "86e7b05e-6a41-4506-a839-5dd2b92fb2b4")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -1527,6 +1541,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -1543,7 +1568,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "223114cf-3af6-481c-b45f-3a0392387f54")
+			(uuid "e0dec88a-7ebf-4362-8b1f-eb7f73292fc7")
 			(effects
 				(font
 					(size 1 1)
@@ -1555,7 +1580,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "52969930-8ece-4ec8-99c7-72f2a94d14fc")
+			(uuid "a781032e-afba-4e53-a7fd-f6716ea305d4")
 			(effects
 				(font
 					(size 1 1)
@@ -1569,7 +1594,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "d0113072-8227-42af-8987-241848bbe0f0")
+			(uuid "8c659a81-622d-468e-8f11-603178d438c1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1582,7 +1607,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "7ea7eef7-75a6-4e9d-995c-d0cedbea86f3")
+			(uuid "15ca39ae-e1a6-4b27-a21c-90c2a45d0312")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1595,7 +1620,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "3fd7b246-51e5-4724-8911-bb9d629efae6")
+			(uuid "ee9b5ea9-ded8-459f-a3cf-6f8937873029")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1603,10 +1628,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/d81e84b2-91c0-400b-bac0-ba523a89aa84")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -1616,7 +1638,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "5fd11ed8-a625-4c87-b002-4b52a52f2250")
+			(uuid "01027650-5239-4167-a8e2-525d4fa1a727")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -1626,7 +1648,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "4cc76a3b-3a98-4547-8e50-4b327d7ee950")
+			(uuid "63af43ac-b41c-4eb1-806b-38f51f949aeb")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -1636,7 +1658,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "3797e13a-b963-4a57-b99a-79afbf7d9513")
+			(uuid "aaf4fb87-4dbc-41c2-a9bd-035566bb91df")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -1646,7 +1668,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "44923d61-06aa-4e00-9c28-98b8ae01a39d")
+			(uuid "0fc1a428-3e34-4351-9485-8152d5b19f97")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -1656,7 +1678,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "c65f5a81-b91f-4478-aa17-8d106e2a5e05")
+			(uuid "77479af1-405e-421c-a09a-2b9980de18e5")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -1666,12 +1688,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "7cab786a-f61d-4be5-8b80-deb2fdfa4e0a")
+			(uuid "845e9593-a9df-4a85-aba7-b468650c2221")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "9f412552-b0de-474c-a399-d9d9ca36cad2")
+			(uuid "5e2f98ee-e630-4086-8ac9-7e0a48a8b933")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -1687,7 +1709,7 @@
 			(net 8 "Net-(D5-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "f36664bf-4034-4c6a-a8b0-cf4b0dfcc9f6")
+			(uuid "8834d311-ff05-4a9b-9d47-dd96857ddba5")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -1696,7 +1718,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "9637d3a8-6b0e-4b0e-915c-45dd50cce91f")
+			(uuid "00e43ffe-05b2-416d-a34d-0cdfd979cff0")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -1705,7 +1727,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "40176216-2a86-4d3e-8abb-d7eeaec751cf")
+			(uuid "ff93e5c6-75be-41a2-a03d-3260aca500d0")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -1714,7 +1736,7 @@
 			(net 7 "Net-(D4-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "821395b1-00b4-4e67-a35e-1463d72d8f3d")
+			(uuid "cae69ed4-fca6-4d4e-8dd9-188a77445a7b")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -1722,6 +1744,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -1738,7 +1771,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "2d96887f-8f39-4e48-ab81-7cb81cd16e1a")
+			(uuid "e5df0e46-0a2c-45db-a88f-c7572665edf8")
 			(effects
 				(font
 					(size 1 1)
@@ -1750,7 +1783,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "8d6d51ec-5d53-4ba6-9f4b-493306bd1b22")
+			(uuid "111711f0-c4b3-42ec-ac5f-978b6506c1b3")
 			(effects
 				(font
 					(size 1 1)
@@ -1764,7 +1797,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b6079242-ec4b-46ae-9408-ebc3a4a39b1b")
+			(uuid "a05d6ec3-fd2c-439f-a8c3-7507956502c6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1777,7 +1810,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "6900d99a-2792-4e71-bd9f-ae0e662ea788")
+			(uuid "3973981b-70c6-43f2-b27d-55762db105c0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1790,7 +1823,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f99481f6-d91e-4593-88c9-f35948bb57fe")
+			(uuid "a000fba6-be07-4a5c-9fbc-8a8edda6b762")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1798,10 +1831,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/476b729b-28bb-4ca9-b6b9-1ef77f7a0a3f")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -1811,7 +1841,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "8a4c5337-2b01-447e-8580-1a85c48c1901")
+			(uuid "7b867267-33fd-48cb-9bfe-660b52f0a6b7")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -1821,7 +1851,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "80240df6-4e82-4ffa-89d9-6b8f94c3ab5e")
+			(uuid "1d39b7f8-3c8e-4f30-af2d-866f3fc0a33c")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -1831,7 +1861,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "17a1f19d-2a52-4274-a289-3b000c425070")
+			(uuid "e8131d72-9e89-4d91-8ec2-08d1b0f85c6e")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -1841,7 +1871,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "f8392e29-6c04-44c9-8748-48b91754ed64")
+			(uuid "b8adc0f1-7057-41cd-9a88-81d2cf33b8e2")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -1851,7 +1881,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "d8bd893b-f9d2-4b74-b482-e12cf7ba7952")
+			(uuid "9c093a12-8dcd-416a-8168-fc7ff62b1f6d")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -1861,12 +1891,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "8a651977-94b2-43d1-9c9e-5968f5dec180")
+			(uuid "ce7f1cc8-4133-430c-a743-3fb73333abcb")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "66dbbbf9-fada-44f4-8d5c-984ee239e70b")
+			(uuid "6fef36df-1d6b-4941-8f08-57de9c922ecb")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -1882,7 +1912,7 @@
 			(net 17 "Net-(D14-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "4fe713e1-9168-4223-860d-5db135f8cd66")
+			(uuid "b6fa4a2b-43a1-4396-8704-2e5023c01f68")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -1891,7 +1921,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "7867645e-3d61-430f-8d7a-e7a74491099d")
+			(uuid "15458484-f917-4413-bf80-8726e6da2e7c")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -1900,7 +1930,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "c0e2ae5f-e17c-47ba-88d3-d9a80e006f6c")
+			(uuid "d80f2b1b-abab-4952-a2ea-28bb96fd461c")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -1909,7 +1939,7 @@
 			(net 16 "Net-(D13-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "edf2a3b9-9c89-4965-a286-71eadba2681c")
+			(uuid "77211940-fc47-49be-962d-b63f8f092d1c")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -1917,6 +1947,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -1933,7 +1974,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "b3a91c95-21fb-44d3-9fa7-5a158c4f80d8")
+			(uuid "9244cc16-52dc-4479-9082-fa482b669f86")
 			(effects
 				(font
 					(size 1 1)
@@ -1945,7 +1986,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "67855e8a-66d9-4174-9659-b02ec5a9d32a")
+			(uuid "f522d3f1-e7b6-45e8-a3e9-7475a6e12bef")
 			(effects
 				(font
 					(size 1 1)
@@ -1959,7 +2000,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "4e7348cf-2c05-41c7-bd35-6661d1b35a48")
+			(uuid "a10bfae1-e67b-4bae-8c9e-d947edb60010")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1972,7 +2013,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "723fea19-eaa6-4ea4-9dc1-fd5c2ed639bc")
+			(uuid "cfe535f2-7789-4156-aa78-9f7fbf784914")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1985,7 +2026,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "7634d02f-0859-4a6d-a640-c6ac3de78a0d")
+			(uuid "6076d582-fec9-4df3-97d5-949cf4a22980")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1993,10 +2034,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/8998c1bb-08fa-4892-8ebf-df525ea24851")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -2006,7 +2044,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "52cbe886-d561-4d7e-b364-686b6a72043b")
+			(uuid "4c8b2e33-f16a-440b-bf46-e4eba137b0ed")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -2016,7 +2054,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "cc50ba72-b6a5-41ec-be3c-2b5ea7572a1d")
+			(uuid "1778dcd0-1165-4117-ad90-3d58be43236e")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -2026,7 +2064,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "5c85343f-06e1-49df-b2c9-7548ad1ecf28")
+			(uuid "36199c4e-6033-4019-bcb1-163f684ce75d")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -2036,7 +2074,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "22320957-304b-41cf-8f93-e22a314dd861")
+			(uuid "987c3a18-b534-4705-8bdd-7d5bda8af9f1")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -2046,7 +2084,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "e4e0728a-170c-4abb-99f0-707d6dfa5bfd")
+			(uuid "cfa6b8e2-a11c-43d5-aca5-5b086b6a2b69")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -2056,12 +2094,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "960733bf-e4e7-4fe6-9fd4-7793f75e3f5d")
+			(uuid "cd9e91a9-2a7d-452f-95b9-bacb2001b6e2")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "650a0e0d-9048-48f3-95f9-423b86286001")
+			(uuid "0f1961b9-e6eb-4602-9782-fb48aacf0fd6")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2077,7 +2115,7 @@
 			(net 9 "Net-(D6-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "3bd71058-ac9a-4bc0-837e-72b05f856c9d")
+			(uuid "9c72cc4f-ff19-4ccc-908a-34e5a474f15c")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -2086,7 +2124,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "7b32f1c8-9d1a-4b8c-a98f-6918720a0f26")
+			(uuid "b539c9ff-9950-49f6-872f-7e7bc3aee787")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -2095,7 +2133,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "39de5e95-ab8e-42ee-bd25-d1bf81a57cac")
+			(uuid "f4eb5fb0-73b7-4b4a-88d5-533dc1ee0944")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -2104,7 +2142,7 @@
 			(net 8 "Net-(D5-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "625a5e2f-efc0-47e0-9cfe-96390430055a")
+			(uuid "3ededcfb-b814-453a-8dcf-c452f2442088")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -2112,6 +2150,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -2128,7 +2177,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "f73100e6-646d-44a8-8329-68575e738844")
+			(uuid "57fc210c-d43b-457f-9bdd-b9fe1aae1f5d")
 			(effects
 				(font
 					(size 1 1)
@@ -2140,7 +2189,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "22028335-1fdd-4754-a268-ae9b2bee68ee")
+			(uuid "f5a70758-a104-4214-a0ef-e6e1d7c63393")
 			(effects
 				(font
 					(size 1 1)
@@ -2154,7 +2203,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "cc36f53f-baad-4321-a1b0-7c10f0a12723")
+			(uuid "23a34970-7a07-4d15-8359-db5638c561ea")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2167,7 +2216,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "26f7e731-9cca-47a0-9d0c-8b671e9dfe1e")
+			(uuid "9ec5774c-c4e2-4be4-81d6-4aacf66efe28")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2180,7 +2229,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "3abe4348-6baf-4d83-b519-b33112a20aba")
+			(uuid "4f93d270-a332-489f-8d8e-98a9756b3e2e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2188,10 +2237,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/1d12abd7-24e1-4bfe-8f4e-bed9146557da")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -2201,7 +2247,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "7eb91505-6d13-4eff-8d0f-3d649aa875ca")
+			(uuid "51c8b4ef-1505-418e-b9bf-e69c97b54491")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -2211,7 +2257,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "ac032a20-521a-4b84-8547-45423929d61a")
+			(uuid "7d6b1fbb-ffcc-42ed-9744-305791627957")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -2221,7 +2267,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "c3a35d4b-c822-4471-8b13-c6b81fcbdd0f")
+			(uuid "99beec13-45c3-4ef0-8b7a-e53686094cf3")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -2231,7 +2277,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "8bc3f748-dbe7-42b4-8c2b-3f38f82ffec7")
+			(uuid "6e4a0402-ed08-42e5-9495-8ef5b62aa604")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -2241,7 +2287,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "a25bae0e-61b2-40ba-ba79-21bed72d741b")
+			(uuid "977ff4f7-689a-47ad-9fca-abef9f1aa41a")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -2251,12 +2297,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "66332f1b-ed1a-4340-a393-19d17f735c2f")
+			(uuid "4e8e0545-a65a-4de2-9c48-3ac782e5dffc")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "4668d7ab-8ecf-4c24-b448-29212536af54")
+			(uuid "332a0654-fb53-4a99-9b74-96387a57a67e")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2272,7 +2318,7 @@
 			(net 11 "Net-(D8-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "298ee062-0277-4af9-8473-f2df5964d9d0")
+			(uuid "74f8940b-e84b-4290-942a-9db96d82c8d7")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -2281,7 +2327,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "e0616b6b-5344-4291-a467-fa8222e8150b")
+			(uuid "bc212e53-e09b-4d9a-8fe5-289bd5789e43")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -2290,7 +2336,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "af07a7c8-1a31-485b-aa06-e1deeeacae1b")
+			(uuid "e9a592f5-b887-495f-9060-ddce03add8fe")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -2299,7 +2345,7 @@
 			(net 10 "Net-(D7-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "8db3b880-a55e-4291-86eb-20ce1540205b")
+			(uuid "a885a215-9d75-430b-aee1-0eacce457ee1")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -2307,6 +2353,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -2323,7 +2380,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "61f70e3e-f045-43d4-874b-0e6f73da1ac5")
+			(uuid "b19da8ca-fe3c-4dd4-b7a6-3dd5a5af2966")
 			(effects
 				(font
 					(size 1 1)
@@ -2335,7 +2392,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "839b9d98-f5ed-4618-80ea-81be67f21e4e")
+			(uuid "4bc2a4ae-65cc-4b2e-bf8c-3e1c00301218")
 			(effects
 				(font
 					(size 1 1)
@@ -2349,7 +2406,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "70fd37de-3f2d-4551-843a-16a31df14a4b")
+			(uuid "bb4769e8-5720-472d-a044-4ea346fe6c68")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2362,7 +2419,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8d0f800c-a22b-4377-ae46-c6d7fa25001a")
+			(uuid "789c8bf4-a08c-44b3-ab19-c2b5bea521b8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2375,7 +2432,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0e39128f-b4ba-41df-8a6b-ee4de826ffb6")
+			(uuid "27cd622b-f6be-4a34-afbc-a00d4bc01800")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2383,10 +2440,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/26651e0f-ce21-4168-9f44-d94b65726f31")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -2396,7 +2450,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "aef9ad45-cde1-4f41-b718-60c2764f0795")
+			(uuid "a15f1962-29e3-47be-b52b-9c5d60722156")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -2406,7 +2460,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "50da8a8b-5422-4499-97e9-b2446a1a5769")
+			(uuid "985fa8ff-1205-4fb6-ae32-aa1fdac6b0f5")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -2416,7 +2470,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "61715c38-73b7-4be6-b26e-878c42b1e544")
+			(uuid "55087bbe-15b9-44b1-a461-682c8b765b31")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -2426,7 +2480,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "9ba196a4-c579-4d2b-8e5d-bdc595e2468c")
+			(uuid "7b665231-56c8-4d5d-b923-c8ea2d0d27fc")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -2436,7 +2490,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "d0bc1b6c-0195-4475-adb2-7e2b8c1463fd")
+			(uuid "fc8ac0b7-860c-4135-900e-4a18755e9aec")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -2446,12 +2500,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "f9efd592-8d22-4c88-8de1-e4f8bacd97ae")
+			(uuid "49690c0d-3de1-4ecd-8a6c-75bd1b40e3e6")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "7d68847e-76db-487c-85ed-27ffd9199da8")
+			(uuid "05a8d335-a0c3-4684-9b29-2aeaabbf3484")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2467,7 +2521,7 @@
 			(net 7 "Net-(D4-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "ee037b03-89c3-4be2-accb-510dd51e72fa")
+			(uuid "495b39c4-501a-4888-9bd3-d941dd80428a")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -2476,7 +2530,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "daefb299-b912-4f0a-a594-6819b1d742ef")
+			(uuid "4dc73825-a471-47b6-9f79-e21aeb4c405d")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -2485,7 +2539,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "3e16903a-1b04-4980-99dc-49d11d54d3c9")
+			(uuid "1eb7fd2c-6b19-474f-8eaf-02a8421ff91f")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -2494,7 +2548,7 @@
 			(net 6 "Net-(D3-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "a185262e-608e-45a0-8bf3-e55cd7fdb8d1")
+			(uuid "fbe49e15-339b-4a29-85c2-808b6fe004ad")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -2502,6 +2556,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -2518,7 +2583,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "d82a5d95-821e-4dc0-9046-e3cd8bfd253f")
+			(uuid "43595723-37bb-4c34-abc3-5403b2d8344c")
 			(effects
 				(font
 					(size 1 1)
@@ -2530,7 +2595,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "5f16d065-af53-4479-962e-a1f65c848fda")
+			(uuid "4a38720a-c3af-4081-8678-9621f883a8a6")
 			(effects
 				(font
 					(size 1 1)
@@ -2544,7 +2609,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "a6fd67fe-ae2c-4245-8858-4e7a0b33c490")
+			(uuid "7f0de42b-2219-414c-839c-1e96583d4f29")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2557,7 +2622,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0e100743-cdf2-42b6-81b1-08c314bb28ef")
+			(uuid "b5caf9df-a6c2-415f-a554-19171b5d69fd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2570,7 +2635,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "3a34c036-6841-4592-801d-ad1455f1e32e")
+			(uuid "a33e1623-8cb9-499b-af60-9d63eb880fcb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2578,10 +2643,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/b77f9be2-b565-4d4b-84e8-b07b160a002e")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -2591,7 +2653,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "9873e988-5773-444c-a432-53948c653c93")
+			(uuid "f64f0df9-f8cc-403d-bfdf-ccf9b3f25816")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -2601,7 +2663,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "f3855b24-4a42-4720-84e4-c90166353048")
+			(uuid "47ffc46f-8106-49c2-be29-7ac26dcbe0ac")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -2611,7 +2673,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "9bf5ddef-0173-4f71-bc03-e2c41a240be9")
+			(uuid "1821e404-2756-41fc-97bb-334a9a5024ff")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -2621,7 +2683,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "d194d595-66a2-4d7b-95be-1dde0f8c9e94")
+			(uuid "6f8046fe-edd1-40df-959a-da13909045a4")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -2631,7 +2693,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "75a44031-0c18-4221-97cb-6feba012f0f0")
+			(uuid "9a486239-e8b2-4459-a706-b0e59856681f")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -2641,12 +2703,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "00c6c379-7fd7-4017-a1e3-63ff73766e21")
+			(uuid "751a0a63-cb79-4851-925c-9a2ff028d614")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "711dbfdf-ea63-4596-9455-2341b67bb373")
+			(uuid "fb8f76dd-58f0-43c2-b119-ff06a549a567")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2662,7 +2724,7 @@
 			(net 25 "Net-(D22-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "59fac6a8-8170-4b92-b17c-c896f3e67ebf")
+			(uuid "a976c9d8-0062-4398-bc26-d994a2c98617")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -2671,7 +2733,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "fa186a89-37d2-4566-a415-e1eaa70e0805")
+			(uuid "e143aabe-b598-4cc8-9a26-fee3de74472f")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -2680,7 +2742,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "6b700bab-cc24-4d8d-856d-20b4e624d0d5")
+			(uuid "1a851de7-2351-41d9-8c73-3e639b23b663")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -2689,7 +2751,7 @@
 			(net 24 "Net-(D21-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "aba66549-fe75-45ef-a8e6-b451d000018f")
+			(uuid "cdba2bbc-792d-4e9d-a243-bc1860da8219")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -2697,6 +2759,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -2713,7 +2786,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "5e14a31b-d9a6-4e7a-a06c-1d6e46ba5de9")
+			(uuid "3b7648d2-891f-4cbb-bc19-c287f8f23bba")
 			(effects
 				(font
 					(size 1 1)
@@ -2725,7 +2798,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "e405575d-a180-4867-ad17-9946c509d5c8")
+			(uuid "c72b8807-b54d-4d83-b941-b08470850c23")
 			(effects
 				(font
 					(size 1 1)
@@ -2739,7 +2812,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "eceb8ef4-479c-4274-a0bc-dc7caf1ebf39")
+			(uuid "0654a2b3-237e-40e2-8952-5cf2db600435")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2752,7 +2825,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8d701411-b3c1-49d3-8df6-da47791e45e8")
+			(uuid "6ff41b4c-045b-4954-ab0c-6c4bb7c3eef1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2765,7 +2838,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "94d3e5f6-06d0-4378-818a-703d3c5c871d")
+			(uuid "d98b59a1-bfee-4f94-a011-36e0f3d714e2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2773,10 +2846,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/71cbe8c1-b9f2-4ac7-9356-102653c9e230")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -2786,7 +2856,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "d4a7741f-edac-470b-bab5-f26588b4d972")
+			(uuid "f8d38136-0501-4b99-8b64-6f8ba6c5bf76")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -2796,7 +2866,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "acf75306-b054-481d-be43-d50ea38360e3")
+			(uuid "985ef904-e296-4056-bc18-22058f8762a0")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -2806,7 +2876,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "c617dc12-a835-4885-b8a5-e329a4713c69")
+			(uuid "010d3cbc-e5c5-43f8-8165-1eb56cf41f24")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -2816,7 +2886,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "06d869f6-8f6f-44cd-b3f1-33859a9042b8")
+			(uuid "7c97bd4b-e586-4c7c-9ea3-f93217465fea")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -2826,7 +2896,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "592d5c3d-dc41-4b92-b987-b155246b3696")
+			(uuid "536bdef8-b986-49fb-a429-cd085b677c1e")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -2836,12 +2906,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "6c77aca7-78ec-4f01-b441-9f54cf13d081")
+			(uuid "69417c92-2866-410a-9c8f-32d86bb442c0")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "3f14ed9d-79bd-48ec-8ee0-edf23b17281c")
+			(uuid "05ef4e66-35f7-42d8-8597-98b4a8a94c8e")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -2857,7 +2927,7 @@
 			(net 13 "Net-(D10-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "3b677dd6-a293-49c1-baa4-c84879537f30")
+			(uuid "f2204786-d346-443d-9fee-3cb0aae0a93d")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -2866,7 +2936,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "e4166129-f023-43da-be3a-60e548a53ef7")
+			(uuid "6e238afd-97e8-4045-91da-80602975e5f7")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -2875,7 +2945,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "0e2c9c7f-0f33-4b35-bfcd-27a6cdf64674")
+			(uuid "faad2be0-5673-4ec0-b17d-e446d6a7493d")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -2884,7 +2954,7 @@
 			(net 12 "Net-(D10-DIN)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "c6e55f25-14da-490e-ac66-8eb311e13173")
+			(uuid "78ce8d73-36bc-460e-a035-edffcde0d06e")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -2892,6 +2962,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -2908,7 +2989,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "55da18ff-ced7-4ade-938e-c2ec1b32400e")
+			(uuid "d574efb3-51d0-4357-8a61-81b857b6e4df")
 			(effects
 				(font
 					(size 1 1)
@@ -2920,7 +3001,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "6c9d365b-6fd3-45e8-80cf-c8ed40c66085")
+			(uuid "bb768a43-d20f-46cd-bdd6-fc34aa0063c4")
 			(effects
 				(font
 					(size 1 1)
@@ -2934,7 +3015,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1e7a257c-7d69-452f-9164-77f7b709865f")
+			(uuid "0e776e09-8ef6-4f13-93ce-2d3c96def76c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2947,7 +3028,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "ae54200e-b154-4df4-aa26-127cab92cfe4")
+			(uuid "f0ceec71-ae08-476c-8d4f-36e0b991d19e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2960,7 +3041,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "39ad1e60-afdd-4571-be9f-839741a3ec76")
+			(uuid "bf39a71f-4d7f-475a-932a-2cdd5e481a3e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2968,10 +3049,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/2cc48f3a-6d94-4b3d-9f4c-db63cea2c820")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -2981,7 +3059,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "f2778b8c-c0df-48a1-93d1-409c749ca0de")
+			(uuid "8fd265e6-6cde-4fc7-b1cb-7ab0eeff6fc8")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -2991,7 +3069,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "0925f349-82b8-47f6-93e3-5fdad23498b2")
+			(uuid "ae0715b9-e972-45ce-953c-1b301b789226")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -3001,7 +3079,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "26e2f0ea-0e61-46e3-abb7-8d84ff9ba351")
+			(uuid "9a4a3215-f519-4c7b-a928-52d2f1de490a")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -3011,7 +3089,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "799c4333-28bb-41d9-a0c0-1ea3748639e0")
+			(uuid "7c8a06b2-7ec5-4ea8-b9be-52b1f12eca2b")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -3021,7 +3099,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "b529d5c3-cb1a-4b2c-8002-b63f993f7dfd")
+			(uuid "26472c29-7f48-4fff-a2db-b4bdc0a1ed03")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -3031,12 +3109,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "7dd46b0e-cd93-4787-bfb7-5b8b0d973cc5")
+			(uuid "6fe4890a-b31a-42ed-9398-5e6e01b4e46b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "145702d4-3c79-4f2f-92e1-c39dd20fda44")
+			(uuid "b4bd488e-dfe6-4156-aa1b-96645430cde5")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3052,7 +3130,7 @@
 			(net 19 "Net-(D16-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "b6a0be85-e6dd-42f1-adda-1d08168250a3")
+			(uuid "7806a047-1a0d-4b07-87eb-3f40bf71c1fd")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -3061,7 +3139,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "eb10d8d5-1cd7-40d3-84b2-66e5f48d9a40")
+			(uuid "e098f734-e45b-448a-8d09-dab74c67285d")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -3070,7 +3148,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "c593edc0-bc15-4822-bdcf-e6cac0aa5973")
+			(uuid "ed02245a-1c9f-4db8-8dfa-45f2c77562c7")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -3079,7 +3157,7 @@
 			(net 18 "Net-(D15-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "dd64168f-845a-4e79-99cb-ef12496ed1e2")
+			(uuid "7bb29696-ccd6-4c4d-8930-9c17b8c35ed8")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -3087,6 +3165,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -3103,7 +3192,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "26154454-8719-48a9-98a5-bf0512163aca")
+			(uuid "3008a299-4058-4ec1-aed0-13463a7dc4bc")
 			(effects
 				(font
 					(size 1 1)
@@ -3115,7 +3204,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "19ebf9c1-6a32-42ae-aa4e-749753a82b8c")
+			(uuid "81b78177-46cb-4b2b-830d-5fbc90b08e27")
 			(effects
 				(font
 					(size 1 1)
@@ -3129,7 +3218,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "a226f2eb-297a-4a10-b1a3-098ec9c2a665")
+			(uuid "fe0694e6-434f-4354-86d2-f005b46888de")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3142,7 +3231,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "d63c6615-b4d5-4e70-86f6-e22b29913b8d")
+			(uuid "b277b0a4-3718-44f0-b8aa-e6031646c966")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3155,7 +3244,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1a82b065-4d2f-4699-9335-9d9029934aaf")
+			(uuid "77886d5a-d45b-4b9b-9e3f-32b98de8f59e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3163,10 +3252,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/820f91db-5f76-4471-969d-1e43c3d8e908")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -3176,7 +3262,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "c748680b-cdfd-4ac9-a947-714b755444b7")
+			(uuid "07e729f5-3fb0-4dea-96b0-3b7b59dfab59")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -3186,7 +3272,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "8c14a9e9-1517-4e71-bcfe-4e2cac410afb")
+			(uuid "a4e738d1-112b-4c64-8659-62e55183f0f9")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -3196,7 +3282,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "205f511a-8b24-4f28-86de-e7db25ef0e25")
+			(uuid "f150c798-ac60-4f43-8601-0d613748ecdf")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -3206,7 +3292,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "0987726e-f22c-4b4e-aa78-60134956f490")
+			(uuid "7f98ebaf-7a1c-46d3-925a-6d7dafb420c5")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -3216,7 +3302,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "4700d8fb-91f8-4bcb-9645-8b0e2a097006")
+			(uuid "00522af7-1ebf-49b7-b27a-d672bb56244d")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -3226,12 +3312,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "6d6c0d75-2f69-4433-b2d0-f83e5e5087e5")
+			(uuid "26940aca-10e2-4e72-8861-b6ac8bb55550")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "c4ed4eb0-1266-43fb-9d67-4bb107cd1fb1")
+			(uuid "dfb765d2-d6ac-4613-b046-2a8b2d86cece")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3247,7 +3333,7 @@
 			(net 15 "Net-(D12-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "fbaeae3f-fcbb-411f-9ca8-6a923c7fe2bc")
+			(uuid "0506002a-b933-4c66-bcf9-2dc4dc1482f8")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -3256,7 +3342,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "9fd6fb8d-a7fa-47a3-b430-3967a3a9a58c")
+			(uuid "4d91e4db-39a9-4926-a497-32d6d75a6f32")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -3265,7 +3351,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "55bf42f7-8813-42e4-b486-032a807515a0")
+			(uuid "71eb07d7-c187-4f4f-9341-9b2ccb322466")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -3274,7 +3360,7 @@
 			(net 14 "Net-(D11-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "20937310-1a31-4549-8058-8079eb650e28")
+			(uuid "9af8bc70-a570-4d17-9e3a-98b72f7603ed")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -3282,6 +3368,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -3298,7 +3395,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "146c4866-663d-492b-80fc-4341afa34906")
+			(uuid "7992727b-5d23-4aee-bad6-f08a96173e2d")
 			(effects
 				(font
 					(size 1 1)
@@ -3310,7 +3407,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "c307fad9-fcbd-416f-a646-691ea0f2b866")
+			(uuid "5e9e3ccf-4577-4abe-9c83-a3e819dabe7c")
 			(effects
 				(font
 					(size 1 1)
@@ -3324,7 +3421,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "6cb16029-8326-4a31-80dd-1b29d1d3a060")
+			(uuid "28935518-f111-47bf-8237-8251346bd9be")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3337,7 +3434,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "632b54d2-6648-4620-9908-5c9642979061")
+			(uuid "57ca29d8-2ae1-490b-bf63-676d745285db")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3350,7 +3447,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "44e3f461-83ea-481b-a4e7-efb220940a36")
+			(uuid "fa777f13-8595-479d-8e11-1dc562ee2308")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3358,10 +3455,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/c8c1fe3b-fede-450a-a84a-513b40f562ff")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -3371,7 +3465,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "25f0c639-c712-40cb-b7da-4f7290d59865")
+			(uuid "49a6d4cf-e7dd-40af-8b70-417db55de8e7")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -3381,7 +3475,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "eebdf3c9-0cba-402e-909e-bf31180778ba")
+			(uuid "1680150f-61b5-4147-a7b3-dd5f552350b8")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -3391,7 +3485,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "31c0b6cf-3679-47b2-89f1-ffffac5f36b2")
+			(uuid "13bdeb21-c80c-491f-b541-531c3e961a9c")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -3401,7 +3495,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "92076035-19b9-4daf-b9c1-0499a7b251cf")
+			(uuid "039ab660-be6e-421b-b779-acac243b465f")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -3411,7 +3505,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "dcb392cb-58d8-498b-909f-00e9ada46f78")
+			(uuid "15c005d9-2157-481e-a7ca-ca5cbb8d5182")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -3421,12 +3515,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "01fa23a0-fc4e-4fcb-96de-5bc1ba3e0108")
+			(uuid "d29daff2-e166-4444-aeb2-f55682426dc1")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "97f7e837-eb5e-4e85-8678-3732f4e93a90")
+			(uuid "fbc4f07f-c87e-4c91-bb1e-7c41dfea1eda")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3442,7 +3536,7 @@
 			(net 28 "unconnected-(D25-DOUT-Pad1)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "de956735-b46a-4dac-a319-942cfb80d9fa")
+			(uuid "37407ce5-cd5b-4cb9-b53a-1ecbe04e8711")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -3451,7 +3545,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "c58786b1-ae85-4f04-858b-379eafe69421")
+			(uuid "284cb4f7-b7c7-4e4a-9b2f-f8e4e516fe4a")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -3460,7 +3554,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "5392fd48-441c-4f0e-9503-ca70dcf6b728")
+			(uuid "3a858d4c-64e8-429a-b951-0f10b9533aec")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -3469,7 +3563,7 @@
 			(net 27 "Net-(D24-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "3b9f1504-8b1c-4dcb-86e7-44ba59ef528e")
+			(uuid "e7819f75-b0a5-4921-b84a-cbd5b9954fe5")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -3477,6 +3571,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -3493,7 +3598,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "0bf5507a-f6c8-4fdc-8149-7d192d0d823f")
+			(uuid "e192d43c-5308-4d2c-88a0-9797b1395610")
 			(effects
 				(font
 					(size 1 1)
@@ -3505,7 +3610,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "f8f8ddf8-ddb4-4d56-bdba-62b41c20a1c3")
+			(uuid "e06a0cc7-7888-47c0-bf59-33214472f4c1")
 			(effects
 				(font
 					(size 1 1)
@@ -3519,7 +3624,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "ab07ae7f-a175-492e-9b77-aed532d7bdb5")
+			(uuid "f595aed2-3bfd-4755-83d2-6007b5e25daf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3532,7 +3637,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "95fe7b79-d890-4593-bc50-7c19ce1846c6")
+			(uuid "2581b1ba-ba21-4a72-be37-4069b74176b7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3545,7 +3650,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e9934872-0411-4abd-b711-3628ca6fc6ed")
+			(uuid "f99de8f2-b996-4296-ad46-32dc57971e6c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3553,10 +3658,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/a199c66d-7e26-4f91-a063-c0e3c3a0f849")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -3566,7 +3668,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "61ca7445-007b-4f71-9620-e4fa468c8ef9")
+			(uuid "e6646e2c-5175-4c0b-a1d3-9e00348cade1")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -3576,7 +3678,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "6b168f46-eef9-4915-a5e4-051a10f318de")
+			(uuid "586304bf-edba-4132-ad4f-0d767e863e40")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -3586,7 +3688,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "bc26bb80-187e-4df9-a6fa-e0dc37d5a501")
+			(uuid "7bca0d40-398f-41dd-a88b-ecc4a428bc1f")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -3596,7 +3698,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "8a038ed4-2f2b-438b-aa14-b9a28e1a977a")
+			(uuid "c4d8f0d6-5934-4daa-9f60-622ffb0fd2cd")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -3606,7 +3708,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "69985fbd-b596-4af8-a355-90daad72b1d9")
+			(uuid "7c443ef7-ba72-4c1d-9565-1cf640ee1ffc")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -3616,12 +3718,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "d06262ac-78ad-417e-ba23-3a74e8565d27")
+			(uuid "4d49b14b-c954-460f-8b45-78e0a2178b65")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "e631c783-63e1-4a54-9b07-7c3506e446a8")
+			(uuid "d4a91cca-79e8-4e6d-8c4f-c41d9d4d4b67")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3637,7 +3739,7 @@
 			(net 14 "Net-(D11-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "e4ea747b-0a9e-483c-90dd-53c4760a9e46")
+			(uuid "266390eb-a10a-4957-a94b-293dd58c7eb3")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -3646,7 +3748,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "15e83087-9e40-489c-9f76-376e2b1429c9")
+			(uuid "757b5098-ac65-44aa-943d-98c66db320ea")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -3655,7 +3757,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "8ce412ff-658a-40dc-bf3d-225678c72e09")
+			(uuid "18198de2-34c4-4067-bca5-b10e5392fbe7")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -3664,7 +3766,7 @@
 			(net 13 "Net-(D10-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "51544ed8-3ff1-45f2-ad00-3bc2ea2c6eb5")
+			(uuid "c0e92e2f-942c-4c08-9017-bff91925e7e1")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -3672,6 +3774,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -3688,7 +3801,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "e173dcdb-1c6d-4fc0-897c-c0356d4cb6fb")
+			(uuid "f38dffca-2c07-4339-a0f7-5ed5900eb100")
 			(effects
 				(font
 					(size 1 1)
@@ -3700,7 +3813,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "9dc9bdfd-c2ac-45a3-a45a-515ee54d3023")
+			(uuid "fd40f754-dcdd-4523-ae09-adf5ea2a1028")
 			(effects
 				(font
 					(size 1 1)
@@ -3714,7 +3827,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "cc81cdc0-d174-40fc-ae53-df8a570c4f48")
+			(uuid "2f4f9f82-974f-4277-98a7-9b51038c5675")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3727,7 +3840,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "67da9427-5b23-4e47-a50b-e073c2637a93")
+			(uuid "336fb9e4-c82b-431f-bade-51f9596b4fc3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3740,7 +3853,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2880c326-0c4e-44b9-93e0-6ee3b2ef6dcb")
+			(uuid "2385c92f-51b5-49ae-a7f8-cb3f0781253c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3748,10 +3861,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/f74b5670-8698-479c-bad6-1c7147a67ba9")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -3761,7 +3871,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "150f013d-5c05-438e-9476-291155a479f1")
+			(uuid "b12ca7da-ee13-4969-8799-2d0b393756a8")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -3771,7 +3881,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "db1f473d-c091-4ed3-9446-c4407b6555c3")
+			(uuid "dfe1d6ec-1262-48d6-915b-079b23ead091")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -3781,7 +3891,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "7fca889c-7aae-42e5-9464-577c40698461")
+			(uuid "3e862309-876c-4697-b752-37fcd3cc3d06")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -3791,7 +3901,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "83d292e6-9f2a-450a-b2fc-66c2c31f1711")
+			(uuid "51fcd0db-64f1-4d53-9207-ceee5c703133")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -3801,7 +3911,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "245eeb81-7f7d-41a8-b075-b939b43df4b9")
+			(uuid "e4d3cd95-8770-4ab5-b9d0-c9984802447d")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -3811,12 +3921,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "5a121843-9717-4e89-ae9b-87b7196b51d8")
+			(uuid "821dc74a-d5c8-4fc2-9f63-b1160c2c1028")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "d56a2e4d-0e24-4dbb-8b26-f18f4e78e474")
+			(uuid "9364f49c-ee7f-48ac-b7c3-87f1c7e66065")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -3832,7 +3942,7 @@
 			(net 5 "Net-(D2-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "90995912-cce7-4083-b48f-182b65fccf7d")
+			(uuid "c3505b05-593a-4770-887b-74900c16ab57")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -3841,7 +3951,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "1685132b-cdf3-49b9-b69f-17f64eb3501b")
+			(uuid "0f4af0bc-bb44-4c44-8b8f-abe7452d8be2")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -3850,7 +3960,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "234e0622-e184-4f0d-b585-8771eeebb562")
+			(uuid "0533ad3e-36d0-4f67-901f-fc9dfa83be31")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -3859,7 +3969,7 @@
 			(net 4 "Net-(D1-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "4c92604d-f3c3-49b8-a05d-8dfaeef9728a")
+			(uuid "0aa82345-e9e4-4db5-b05f-84fadc70a2c4")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -3867,6 +3977,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -3883,7 +4004,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "f36ad302-380f-4ead-89fb-3cb936dc681e")
+			(uuid "618f433e-7403-4658-981f-419ca8e516b2")
 			(effects
 				(font
 					(size 1 1)
@@ -3895,7 +4016,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "575e6412-b8bb-4b16-84df-bfaccffcdae4")
+			(uuid "2d1e1c13-0de7-4f09-ade3-9886679b6974")
 			(effects
 				(font
 					(size 1 1)
@@ -3909,7 +4030,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c85dc48d-c8fe-4480-81a9-b60baaea5fd4")
+			(uuid "035ee7a5-4637-4488-a082-9ce606467f25")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3922,7 +4043,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "88516f4c-4cd9-41f6-aec6-27fa12bb679b")
+			(uuid "b554c424-acdf-4a89-892c-2983d77a5a97")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3935,7 +4056,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8bd5ee3f-edb3-4f2c-acdf-468ae01416c7")
+			(uuid "62046747-e7fe-4d84-a60e-e711985c8e28")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3943,10 +4064,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/5431f92c-1cf9-452c-bd91-e653e6aaf1e4")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -3956,7 +4074,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "f2acfffd-c0c8-46ca-8caa-188707b35518")
+			(uuid "0dfe3b19-2da0-464f-a2cc-0b0315fd269a")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -3966,7 +4084,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "35925852-a6e7-476c-b98a-78a345b8bf33")
+			(uuid "728ee419-d329-4652-a239-a84718335af1")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -3976,7 +4094,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "8b1f49be-e753-4399-8785-d644862ce4d1")
+			(uuid "c4f5a317-7861-440e-baa6-f7211b87e568")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -3986,7 +4104,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "7f6ceff3-66ec-4477-b45f-4b0c088fe50d")
+			(uuid "cab5340d-4a8f-446d-b8ef-5422e886f0e8")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -3996,7 +4114,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "22664d75-5a2d-4866-8b08-cdde1d12f75c")
+			(uuid "417c8ae5-7a00-4ac1-9a7a-d3fef4af673e")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -4006,12 +4124,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "16f063e2-2efd-41d1-a08b-1d1d663c61d2")
+			(uuid "3324fa9b-7713-4790-9bf3-5bfdbf45da29")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "8ee2f71b-c0b1-4853-8783-5c0179198a78")
+			(uuid "7caff49e-ec4a-470b-8761-abf76c44d7ed")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -4027,7 +4145,7 @@
 			(net 23 "Net-(D20-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "7710911b-81cf-47f0-92d6-8697db7ca338")
+			(uuid "f228bce0-2484-4960-9c63-d17c6818a9f2")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -4036,7 +4154,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "2aaba401-5e61-4f78-b453-e2643011d17f")
+			(uuid "d1b54dc0-a020-48c2-b525-1c437aa22389")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -4045,7 +4163,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "7446e129-2deb-407a-8673-5210c77ba174")
+			(uuid "b05f333c-8a86-4753-ab95-8319934032b2")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -4054,7 +4172,7 @@
 			(net 22 "Net-(D19-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "33d2250d-5788-496c-b100-30a5dc9590a8")
+			(uuid "780e0fce-2b05-48f3-a350-137ecbb9269d")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -4062,6 +4180,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -4078,7 +4207,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "244d5203-1c94-4bdb-9dbf-5317d5276a0c")
+			(uuid "79c42b66-5797-4e71-a296-ad9b19e1e724")
 			(effects
 				(font
 					(size 1 1)
@@ -4090,7 +4219,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "a8737675-811b-467e-82e5-1b85376efd60")
+			(uuid "4cdf8e24-72b3-4c43-b43e-f5983edbc4c5")
 			(effects
 				(font
 					(size 1 1)
@@ -4104,7 +4233,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "5eaa96b3-1050-42e6-93c9-e2f17a5b0a8e")
+			(uuid "b8811850-c6e7-4be7-86f3-faf9894b76f7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4117,7 +4246,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1411c999-7eb1-4e8a-a4e4-0c4256f5366a")
+			(uuid "fc355435-0ec9-4e3a-ab8b-8d5ad776da29")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4130,7 +4259,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "64ca64e2-37cb-4b52-a108-2f738a798c0f")
+			(uuid "279a56f3-3c25-4e25-b382-1e3e9685624c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4138,10 +4267,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/3acadb08-be61-40cc-9ebf-ce2838b04646")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -4151,7 +4277,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "68a56549-b302-4dbc-af74-8739757e61c1")
+			(uuid "8a4346be-340f-417f-a292-e09c7515a0a2")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -4161,7 +4287,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "7f96cd67-65ec-4af0-8c48-333ced2392d8")
+			(uuid "df766161-f5bf-44d4-b80a-4b51421ac3ec")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -4171,7 +4297,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "48625bb4-a0df-44f8-a986-f64b154f2a79")
+			(uuid "d4b38449-9f98-4e79-add6-b932a32d694a")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -4181,7 +4307,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "94b37c21-bdb4-4d96-9da5-9785cdc1a6d6")
+			(uuid "dac38e4c-d7b5-49f3-a965-42eae5cc1130")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -4191,7 +4317,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "e0641810-b29e-445f-b1c5-56885c833318")
+			(uuid "b89a2622-3734-42a3-ae8b-844a18f5938b")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -4201,12 +4327,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "8e65ec78-a545-4510-8c0a-76b4c0bbb743")
+			(uuid "5c1ad1c8-ad9a-489b-a930-ce92e4316402")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "e5822c87-3d8d-457c-8b7c-d1b408628784")
+			(uuid "0abed120-fccb-4483-bcf3-37879fe67e72")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -4222,7 +4348,7 @@
 			(net 26 "Net-(D23-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "c03078b2-a91d-45aa-ba1f-358a9cc7fa70")
+			(uuid "522e02b7-2fe5-4d3b-9408-6bee02bfe34f")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -4231,7 +4357,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "ff351ea7-b77b-41ae-ae7f-333d9f2c6cb6")
+			(uuid "4f3b6fea-1f49-4209-a992-8c0d02e3568c")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -4240,7 +4366,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "954bb65e-d364-4cf1-961a-569e2b9ccfba")
+			(uuid "5a3c32da-c94d-44de-a78a-7df024ea2bba")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -4249,7 +4375,7 @@
 			(net 25 "Net-(D22-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "5be50ba5-e0c8-485c-a9cd-71b91dd8e4ca")
+			(uuid "968f7418-8119-4c47-b776-cfffc76ec387")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -4257,6 +4383,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -4273,7 +4410,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "7e3cef65-a89e-418c-bc15-5cc201f6d76d")
+			(uuid "78f48a81-373a-4f37-8b72-e55db7277e08")
 			(effects
 				(font
 					(size 1 1)
@@ -4285,7 +4422,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "2a73b6a8-60a0-4e7a-885c-36ff1bdeca61")
+			(uuid "d8709902-5ef9-4803-946f-6a614dee0ee7")
 			(effects
 				(font
 					(size 1 1)
@@ -4299,7 +4436,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "ee077828-66f7-41e9-aa44-d1f07eeeeae4")
+			(uuid "d736246e-6e4a-41a9-84ea-85eb78bd8672")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4312,7 +4449,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9cc1cfb2-4ee9-4adf-a677-afa2a037de48")
+			(uuid "ea962086-1878-47c9-bdfa-3558d8174f64")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4325,7 +4462,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "6185cc46-cd0b-4ab4-bb81-a6d76cc7ba81")
+			(uuid "7c2bae6c-c9dd-423f-add8-5b29ecdf2eed")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4333,10 +4470,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/c3044d7e-1447-48c5-b4d7-39e6e4284b84")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -4346,7 +4480,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "f4c2d1fd-838e-4edb-a712-897c71825b82")
+			(uuid "2326af19-b73d-4251-b789-f1eec9c7c502")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -4356,7 +4490,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "7169bbbb-35f6-4ddb-9ef0-5e5620068d9b")
+			(uuid "8407b7a1-e31a-4f04-b666-1ccd88ee7ebf")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -4366,7 +4500,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "a349fc1d-4a86-4a63-863e-2950af2b37a8")
+			(uuid "08bad535-6f13-4d66-9233-517dea150181")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -4376,7 +4510,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "0d0b6f9d-cb7e-49f6-9020-4571591d9ee0")
+			(uuid "f432052d-0da4-4f39-8e5b-8d0724b5c8a9")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -4386,7 +4520,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "cd1aaea3-a2db-4078-8b10-e8aefb1194cb")
+			(uuid "eac76023-ea85-44b9-a511-db5c0fbb97a8")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -4396,12 +4530,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "6cf9e44f-5e04-428f-94c6-884348d7cbd7")
+			(uuid "5e69508a-7016-4663-afe5-a901145c6739")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "2773dd3d-1185-4326-9993-7e5b04176e62")
+			(uuid "3f64f7c2-2170-4f6e-9e3c-5407212d2538")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -4417,7 +4551,7 @@
 			(net 16 "Net-(D13-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "c34a4ab3-4473-4675-af31-d73739fbb9dc")
+			(uuid "a82c367e-6f0f-4f3e-8fdc-a5d97780944f")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -4426,7 +4560,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "a4369727-d00b-455b-b83f-54a666cce3a1")
+			(uuid "b4917f54-b9c3-40b2-b8dd-eb42c48af60e")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -4435,7 +4569,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "5fef8573-b8fb-4000-ac2d-40c8786dc54c")
+			(uuid "5c0ba6b3-ca94-45fb-bcad-1fb9bce1ef08")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -4444,7 +4578,7 @@
 			(net 15 "Net-(D12-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "b908e5dc-a328-48d5-b532-a50986728340")
+			(uuid "1f05014d-8487-44c4-96aa-27a2f180ce37")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -4452,6 +4586,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -4468,7 +4613,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "97200c34-942d-4d6c-86ce-874f8afd8e0c")
+			(uuid "9eaf7938-5523-4592-9869-af0031fc4c6a")
 			(effects
 				(font
 					(size 1 1)
@@ -4480,7 +4625,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "5c86e8af-8f13-441d-ad6f-8dd9ac12bab1")
+			(uuid "6a274536-35f7-4b33-b157-df9125a48c30")
 			(effects
 				(font
 					(size 1 1)
@@ -4494,7 +4639,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "7dcd1ed2-7081-418e-a958-d6b7f998b574")
+			(uuid "31283a3c-86f6-46cc-a20f-d1d2adda70b4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4507,7 +4652,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2d7a32d8-a3c9-433d-ba7e-8dcf4b2bcd61")
+			(uuid "1e07aa16-c400-4d3b-83a1-d5ae2c85d8f7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4520,7 +4665,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "213c4bac-9de0-4f67-bc1c-042138dda3ad")
+			(uuid "cdf02788-4c71-47f8-af85-c8953ab07943")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4528,10 +4673,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/c4e153f6-4d77-4ce6-93aa-f7241e179f0f")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -4541,7 +4683,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "e0d63672-64a7-4524-866a-dc2ffeebe71f")
+			(uuid "193f0c6c-0493-4cc2-991c-6a1f9f1004c5")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -4551,7 +4693,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "daba1a5e-e803-4a98-8de0-63f66ee07315")
+			(uuid "5c5debf2-4d7c-4d19-adae-d3644b381061")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -4561,7 +4703,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "e6e3a0e8-ba1d-46bf-8a11-fa5c06bd26f8")
+			(uuid "8f593d05-862e-45b7-b539-603717ba2a0a")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -4571,7 +4713,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "1847d866-97cc-4427-99d1-9968a51a264e")
+			(uuid "de15af47-738c-4392-bdf3-a20fb07defb6")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -4581,7 +4723,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "11b838c6-1f02-48f8-a78d-a09f9c16a844")
+			(uuid "2f7295fd-c165-41cd-b9b6-90e32d7386f3")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -4591,12 +4733,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "177a58d2-81a2-47fb-891b-e92f55853b27")
+			(uuid "bc89bacc-d1e0-40d3-b429-6cf1a9c97dbf")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "da99d59c-6278-4700-8a3c-8569977d397c")
+			(uuid "e94596e4-4673-4a67-9079-744f809780d5")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -4612,7 +4754,7 @@
 			(net 22 "Net-(D19-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "184ea1fb-0089-4583-8a32-b3182bbddd61")
+			(uuid "8b859bf4-dc34-462e-ae96-af68266058b3")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -4621,7 +4763,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "7a2213b9-ed23-4400-aadd-5fdb60e5f0fd")
+			(uuid "ada32315-614e-4eb6-a4a8-c18aac4c561a")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -4630,7 +4772,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "38734857-27b4-4486-90ae-8e50ecc76e74")
+			(uuid "cdc73c12-5fbc-4d99-85ff-385a1e71ebb9")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -4639,7 +4781,7 @@
 			(net 21 "Net-(D18-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "6cee14eb-d919-4850-b3ee-10c312ed5e78")
+			(uuid "f5c8eeda-fdab-4b19-8f0d-da2911424fd5")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -4647,6 +4789,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -4663,7 +4816,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "61e7696a-2f7d-41c1-bb2e-2c5f6577f39d")
+			(uuid "7a104ae0-80f1-44e6-bee8-2c889cb3da31")
 			(effects
 				(font
 					(size 1 1)
@@ -4675,7 +4828,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "9da8d287-c85b-48ab-b6bc-d0327a11833a")
+			(uuid "c8b5afea-490b-4a58-a206-461c78f57817")
 			(effects
 				(font
 					(size 1 1)
@@ -4689,7 +4842,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2ce77232-4dfe-44ae-8d17-61e4f2480d48")
+			(uuid "96865803-7e45-4705-83d1-d655d4f8640a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4702,7 +4855,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0b94ab20-f124-4577-996b-cd30d1b44132")
+			(uuid "133ce0c6-6938-4451-a43d-1d157ca2f5e3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4715,7 +4868,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "82a3f888-bc2c-4544-837c-b4c48339b9f4")
+			(uuid "97327678-0cf1-4802-b2de-626844f09519")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4723,10 +4876,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/e05251f6-bf1d-4c02-9981-864dda10182c")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -4736,7 +4886,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "593b55ff-dc2a-4c59-8a9e-306692c861f9")
+			(uuid "0f2dc540-3cf4-453b-a9a3-27b5c03a005d")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -4746,7 +4896,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "b52bf8b1-f0fa-4853-b1db-dd71c30b3bd5")
+			(uuid "62d23bca-eafa-4868-a8b4-f62879c5e47e")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -4756,7 +4906,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "d603f33a-cef1-40ec-bf8a-93213ca68fe9")
+			(uuid "e7818c79-fbfb-40a0-a834-363e6cce5c89")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -4766,7 +4916,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "07f8334e-bca6-4c8d-b507-7dd3ea15a6e5")
+			(uuid "964d5b96-27cf-40a5-bf29-930e47190db6")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -4776,7 +4926,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "8cf80657-af38-4530-953a-10d310b42814")
+			(uuid "f017d7b2-671a-4bfa-9862-3a7b51d7824d")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -4786,12 +4936,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "c163cd26-ec11-4341-831e-77b1603b4707")
+			(uuid "2b0a39c0-0269-42b0-9b70-f53e4c57cba3")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "dbaec54c-7c2c-4c74-931d-456dedb7347e")
+			(uuid "ad088e4b-b96b-455f-bbe9-1cd8b3414e8a")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -4807,7 +4957,7 @@
 			(net 24 "Net-(D21-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "3466ea07-f028-4292-bc79-3144bed9d8f0")
+			(uuid "03c9fa5d-c66c-475a-9802-86279a02fe1f")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -4816,7 +4966,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "6ea4ed4c-83db-4ba2-847e-6407eaadb85c")
+			(uuid "3723ddd5-e993-43a6-aac0-8662a614fde0")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -4825,7 +4975,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "c13002c0-a2ce-41e4-8c08-37a264b3c97f")
+			(uuid "12626eca-96b0-4f1c-870c-c991bf3b65cb")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -4834,7 +4984,7 @@
 			(net 23 "Net-(D20-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "2be8cc78-ef79-4d1c-9841-04f74eaf51ca")
+			(uuid "6d54e9ca-be90-4793-95e1-ff11d4201714")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -4842,6 +4992,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -4858,7 +5019,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "f0e92cc8-13f5-41ff-ae2c-95e035969a7a")
+			(uuid "5dd8f2bf-b4fb-43cf-b6b5-2d45e89132d9")
 			(effects
 				(font
 					(size 1 1)
@@ -4870,7 +5031,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "e7f9a128-e74e-43f5-8703-cff35ed1d112")
+			(uuid "f9cbe9a7-0145-4d25-87fd-9233e170d2ce")
 			(effects
 				(font
 					(size 1 1)
@@ -4884,7 +5045,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "01ac5af9-8c99-4810-b5fe-63ca4c6a4bab")
+			(uuid "90ed8788-0158-434d-ab34-d1fd54cd2301")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4897,7 +5058,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f163c856-4825-461b-85f3-ed7109e27525")
+			(uuid "cabaabf4-677c-4c9d-814b-31d9dc00f065")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4910,7 +5071,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b5fd0f78-18c6-49c2-824d-bb1ec786f6e7")
+			(uuid "8827dac3-9fb5-4e49-bf39-82d23bd89390")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4918,10 +5079,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/4437cebd-b263-498f-9a9b-eb97117ec225")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -4931,7 +5089,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "c6d7e804-abba-4da1-9656-ee983ee71fca")
+			(uuid "f6b9294e-b6c8-4cbd-86ad-ef2380606edd")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -4941,7 +5099,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "3e3adc41-cee3-4660-8deb-cb91f426da28")
+			(uuid "461151ad-c344-448e-9e4c-5e4e7b69fbc3")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -4951,7 +5109,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "9bc4fca8-c860-4718-be0c-c797c6c7b0d3")
+			(uuid "92d3692c-ebc1-45a3-8093-e0161e6063a0")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -4961,7 +5119,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "1df5c944-47ee-45ef-8de3-57e796c4aaf1")
+			(uuid "0f097609-9061-4b3e-a1b4-9977f10d8130")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -4971,7 +5129,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "7f429332-6f79-4245-b1b9-b064303efdee")
+			(uuid "225c66d2-bd0a-4310-ba03-5e66fa429645")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -4981,12 +5139,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "76767e9d-0dd0-4fe6-aa5d-c4064a7ab4f6")
+			(uuid "8f8c46a4-3cc7-402f-b7ff-be0781094619")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "a87ec4ce-ced4-4b1b-9a0a-2c2866a7fa16")
+			(uuid "25b8a2b7-ca97-43c0-9932-9567235049fb")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -5002,7 +5160,7 @@
 			(net 27 "Net-(D24-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "6b83cb61-0ad8-4579-bca2-f67426ba3ccb")
+			(uuid "50949eee-93d2-4c4b-9af3-44758b776480")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -5011,7 +5169,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "ced73f5f-320a-4422-89e6-db9bcd7c3293")
+			(uuid "4efb9de3-1f50-4a0e-a69a-6e81f784130f")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -5020,7 +5178,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "8c8e2e44-6114-4adb-b401-9ecbbf6768a2")
+			(uuid "4829e317-6a16-4695-aedf-1968dccde008")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -5029,7 +5187,7 @@
 			(net 26 "Net-(D23-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "572f1518-de75-43c1-beb7-ca9f7c2aefab")
+			(uuid "e560ce09-1d42-4b74-95aa-535124220204")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -5037,6 +5195,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -5053,7 +5222,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "2a9acc1d-6d52-4716-8faa-ef2196d4bd13")
+			(uuid "eecb8627-db21-41bc-a5c7-955234eeb1ad")
 			(effects
 				(font
 					(size 1 1)
@@ -5065,7 +5234,7 @@
 		(property "Value" "WS2812B-1010"
 			(at -8.645 -12.735 180)
 			(layer "B.Fab")
-			(uuid "f8c46212-45e6-4028-8723-6fed48b588f9")
+			(uuid "e95127f4-126e-4cfa-92e3-552fcd2886d3")
 			(effects
 				(font
 					(size 1 1)
@@ -5079,7 +5248,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "cc9f704b-5280-4eb1-bdfa-2316adbbeb21")
+			(uuid "df33917e-4eb2-4ef2-8232-4ed9757d6b65")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5092,7 +5261,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "12d6cbd2-1fa9-49ee-8e1b-17a74da824b0")
+			(uuid "805faa3c-c0de-43df-9af8-a3ebaf59b08a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5105,7 +5274,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0fc30e08-f8bd-4cbb-a1c6-d6e79c5cb0bb")
+			(uuid "96caf971-afd0-46d1-a5eb-055b7957c20e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5113,10 +5282,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/8c3b7030-a2ef-4990-ab9f-0576064a2796")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -5126,7 +5292,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "1c3b5416-0921-4092-aec4-4f092de545ec")
+			(uuid "687d9011-04d7-4b18-a0f8-185bc2260795")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -5136,7 +5302,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "22e4ea49-a6f8-4ba9-9ce5-e700eb8f5941")
+			(uuid "b67bff32-2d73-47a6-92f7-82957afafc03")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -5146,7 +5312,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "86900f18-1cfe-41cc-a8a6-631d65a1c3fd")
+			(uuid "1a72f4dd-7f02-4de0-aa4b-233cc63b82d0")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -5156,7 +5322,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "36293f2f-10e2-4e37-ae59-bd9869be6f6b")
+			(uuid "7731445c-b813-4b61-9c36-55ebc1a71f2d")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -5166,7 +5332,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "8cda7364-2715-487a-835d-39560f89a158")
+			(uuid "ad50ee87-ce51-43b2-98a8-1e1aa2c3afd5")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -5176,12 +5342,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "9230790e-26bc-4f8d-b458-6367f948f7d5")
+			(uuid "0020f284-755f-45db-8e4b-d0b8aefbdd97")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "af3e34f3-1505-4276-a786-d01a94d421f0")
+			(uuid "3f1a6cd1-7962-4bf4-952a-997137b99ba4")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -5197,7 +5363,7 @@
 			(net 12 "Net-(D10-DIN)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "d377adfe-6e05-4808-99c0-e02ee8befdc4")
+			(uuid "4e574846-ba3d-4aa9-a4bd-75b10e232956")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -5206,7 +5372,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "19823864-394e-4bfd-a010-669a8099218c")
+			(uuid "262fd345-8b30-44d1-84f1-77035c5d845e")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -5215,7 +5381,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "25e7aae0-39fb-4619-bfce-d99c67bae304")
+			(uuid "49ae1d8d-a132-4358-ae67-0fb0e1b93549")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -5224,7 +5390,7 @@
 			(net 11 "Net-(D8-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "8c4a6d91-cd88-477f-bf1c-26ae698ebbad")
+			(uuid "0d56e029-a9ea-45de-b11e-ef9f979e03a6")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -5232,6 +5398,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -5248,7 +5425,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "5b31027a-fb99-4325-8885-d91ec624f1fb")
+			(uuid "f2be36e5-d0d4-4279-a03d-f344a53cc400")
 			(effects
 				(font
 					(size 1 1)
@@ -5260,7 +5437,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "061be48f-d987-4f32-aa18-59e83aecb5bd")
+			(uuid "a46602e9-5fb6-4e07-b7a3-8a22b0608b0e")
 			(effects
 				(font
 					(size 1 1)
@@ -5274,7 +5451,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "3beeef6f-9cb8-43ff-993c-e8e64366327b")
+			(uuid "1ff7a7cc-4645-4651-956a-0222e0f2433d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5287,7 +5464,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b322ea25-38ac-4544-8b6e-49d4f95d5897")
+			(uuid "24c00bbd-5749-40a7-9068-8f45a4de1005")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5300,7 +5477,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e1383d30-1fdb-4faf-8b02-8ad61dc7861b")
+			(uuid "1622f1b8-e3d1-44b6-80ea-a894658a340b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5308,10 +5485,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/67aa72e8-e6e4-4c92-ae67-a0aaf5e29f96")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -5321,7 +5495,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "b57c6354-5920-464f-aaad-da471231dfc8")
+			(uuid "f5340acb-466d-458e-b587-4ad099a518da")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -5331,7 +5505,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "d7175a8e-60b3-47db-8fa9-634b9a2c9eb0")
+			(uuid "97260261-f7a1-4556-a784-0cbbbbd61fea")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -5341,7 +5515,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "044e8168-6c6d-40b6-bdbc-378c8fdd9d36")
+			(uuid "996d5e29-5aa8-472a-86c9-2eb66a102cb4")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -5351,7 +5525,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "fc8316b4-83c3-4df7-8596-ff5c37e918bc")
+			(uuid "13a37537-4957-4cc1-ba9c-e36b77ec5aff")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -5361,7 +5535,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "e00e0285-a54c-4f6b-89fd-0ed24f7a7a20")
+			(uuid "dcbe3f13-a374-466f-95bf-1c14f0ac3d52")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -5371,12 +5545,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "79c74400-4c4c-4496-a7b1-c9dcbc634706")
+			(uuid "e4697cf6-82ac-4b99-ab0f-d2b046a6556d")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "1561790a-d220-451e-9707-b3507d6913d9")
+			(uuid "2578363a-9025-4619-b7cd-55216b53c510")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -5392,7 +5566,7 @@
 			(net 20 "Net-(D17-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "a9ee0e8f-a704-4cda-8f64-ec3f1a6acf0d")
+			(uuid "ad060763-4453-42c7-8555-449e2338741c")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -5401,7 +5575,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "ace1e412-a469-4dec-b3f9-cfd524f5f4a9")
+			(uuid "fd54abec-3c02-43cd-aa53-5553a51cf52f")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -5410,7 +5584,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "323199e8-b242-401f-bc75-ade131f4ad17")
+			(uuid "f52da652-19ae-4c59-9237-c538bb606b4f")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -5419,7 +5593,7 @@
 			(net 19 "Net-(D16-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "29c139fb-2371-4e94-8d4e-509ed52b792a")
+			(uuid "17e7611f-7859-47e6-8e2a-c5aa6fa595fb")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -5427,6 +5601,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -5443,7 +5628,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "8e7a9a73-c079-42da-b5e5-232509049b99")
+			(uuid "e63acf7a-b01e-498f-b8f8-46d76db677e7")
 			(effects
 				(font
 					(size 1 1)
@@ -5455,7 +5640,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "4a0da4db-3184-4e8b-bb58-4acd734508f3")
+			(uuid "3bd4fbe8-607c-4ac6-b950-c1b051a6179d")
 			(effects
 				(font
 					(size 1 1)
@@ -5469,7 +5654,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "59849d8f-b7e6-4cfa-844f-0a4be5065af4")
+			(uuid "08ecd0c8-0d2f-45c0-a1d3-4c18d3610cbf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5482,7 +5667,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "ad9a42cb-b38a-400f-b0dd-bcf885a78e8c")
+			(uuid "790fb451-b66b-4323-a161-5909a32dff08")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5495,7 +5680,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "3cf75352-aa46-4c91-8085-f69e32ea448b")
+			(uuid "97bbd6f0-cd25-4dce-9cfb-1e71a4a229f4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5503,10 +5688,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/ba3bb843-d982-4df8-b4a5-d851c8278ddf")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -5516,7 +5698,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "8efb6f89-128a-4047-aba2-2c42625cf2bf")
+			(uuid "2c6aed91-a79f-4859-b0d6-ef8aa423f658")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -5526,7 +5708,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "ae05f9d8-98d1-4da5-a8a1-f11697e97bc2")
+			(uuid "293a1648-ce03-42f0-85a5-94f91527ce84")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -5536,7 +5718,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "0efe9f37-5425-43bb-9ba5-1abdd815b925")
+			(uuid "2d4baf10-158a-4e05-9070-65528e3c276d")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -5546,7 +5728,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "3d3f7c8a-b2ef-4429-959f-e01436153a93")
+			(uuid "933d57f7-17c5-4ce5-b1ee-1719905d24b3")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -5556,7 +5738,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "fb581db4-d81d-4530-a4a7-b00e158ad8f2")
+			(uuid "05905fb1-1163-4d4f-8761-ecf3bd2afd48")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -5566,12 +5748,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "cceedecf-135c-407d-a36d-a913e978a217")
+			(uuid "b6631851-143f-42ee-84cf-595459350bfd")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "371613ae-1472-4d81-964f-e576d6c93f17")
+			(uuid "89ed2aed-0863-4a12-8515-0e93bcd0b83d")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -5587,7 +5769,7 @@
 			(net 10 "Net-(D7-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "3d28b12f-9169-4a62-bd6e-24f685f361c0")
+			(uuid "8748f64d-670d-4858-a94b-9da491c61f9d")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -5596,7 +5778,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "0faa69e4-9282-4421-9181-1049f46c6610")
+			(uuid "b87e0ca6-5143-4c0b-a493-035061ff512b")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -5605,7 +5787,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "4cd238a1-0745-47a5-aa60-2fca13eab83f")
+			(uuid "7fabdde9-6807-4933-b299-307ee05def3a")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -5614,7 +5796,7 @@
 			(net 9 "Net-(D6-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "c05599b4-5a65-4e87-95a8-d90bb4fee528")
+			(uuid "793c8f95-3319-4a57-8ae2-0385f6c1b559")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -5622,6 +5804,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -5638,7 +5831,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "195b4cc6-4756-4df9-a627-38375156aff7")
+			(uuid "9e18bcaa-a818-4b8b-a1a8-46fb0e4905a5")
 			(effects
 				(font
 					(size 1 1)
@@ -5650,7 +5843,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "849693c6-ff26-403f-b946-db2740e8190e")
+			(uuid "1793bd7a-c0f3-4446-9ffb-8032f0ed31ae")
 			(effects
 				(font
 					(size 1 1)
@@ -5664,7 +5857,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "94b195b6-69aa-46e1-988a-72513c4337b8")
+			(uuid "184e6b0b-38b3-4728-86a4-f45b88d43a5f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5677,7 +5870,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "413ab95a-8d3c-46e7-8574-26806d7e8a0b")
+			(uuid "6dc2e7d6-0d5a-42e6-b59e-4844edf19d1b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5690,7 +5883,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "08ea6626-c0f2-4ba2-9370-c1b8e8d17bf5")
+			(uuid "6de0ef9f-f904-41fd-984f-4724fa0069e1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5698,10 +5891,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/efd3fda5-676d-4482-a0aa-a979ae4f1a5e")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -5711,7 +5901,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "f01dce9b-44bd-466f-8da4-f9c1f01a134a")
+			(uuid "999f31e6-65d6-4d33-9a4c-62ae03802d0e")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -5721,7 +5911,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "4edc899b-34e1-433a-ad3f-2748e9e3ab14")
+			(uuid "ddab86d6-a2ca-413e-85cd-1c3b28b627f1")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -5731,7 +5921,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "e4c87947-db7c-4d90-8fc3-7cfde5e8f9bb")
+			(uuid "557fee0c-f01c-43cd-afe3-29f0cb106abf")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -5741,7 +5931,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "51ab1fcb-7eeb-45d8-b0aa-1e0d63652a8e")
+			(uuid "40ff135a-4f86-4fc7-ac77-f3d3520c3677")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -5751,7 +5941,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "5403a26e-ea73-427c-87ee-d640b95e7cff")
+			(uuid "98697494-9d8a-4f89-9654-7d412a8f727f")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -5761,12 +5951,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "3d3e7004-0000-4c78-9b13-b8923314b29f")
+			(uuid "c8459b3e-8ac3-4df0-bb21-bc9eaea520e0")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "d3277abb-9ae8-4f7a-8688-aa770d503bfc")
+			(uuid "6a702f85-3ab1-42ae-99fd-64c1e4f7160a")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -5782,7 +5972,7 @@
 			(net 18 "Net-(D15-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "8dee06e5-fcfe-47d2-8890-b830ef2192f0")
+			(uuid "73997c9b-0e22-4dba-a70b-d980325cef43")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -5791,7 +5981,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "a77d8281-3f31-4a26-a865-ddf0a287f444")
+			(uuid "057622c5-9b0c-40b9-86d1-58ff9a62f2b3")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -5800,7 +5990,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "e93095fa-8d40-4c94-ac10-ab86a71a5c1f")
+			(uuid "5cf179db-59b8-4fa0-96e8-6bbbfaa3a35c")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -5809,7 +5999,7 @@
 			(net 17 "Net-(D14-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "9460b275-b84f-49ae-8275-bf864dd76964")
+			(uuid "b55a74dd-57b3-4c4c-be2a-32c627874b8f")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -5817,6 +6007,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -5833,7 +6034,7 @@
 			(at -0.285 2.28 180)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "5a4e2d75-a873-41aa-a728-dc8cb1058e4d")
+			(uuid "697fadfd-555c-422d-bba9-e6d62d98d6b9")
 			(effects
 				(font
 					(size 1 1)
@@ -5845,7 +6046,7 @@
 		(property "Value" "WS2812B-1010"
 			(at 0.225 -2.425 180)
 			(layer "B.Fab")
-			(uuid "8f3efe68-9962-4ac3-ad24-a9282b121acd")
+			(uuid "11c220d9-2713-4a08-a036-02a7b2d19555")
 			(effects
 				(font
 					(size 1 1)
@@ -5859,7 +6060,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "fa559ba5-38d9-467c-b3f6-7109606055c5")
+			(uuid "710a136c-d532-4d43-9fa3-90c5b936f319")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5872,7 +6073,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9d7028ba-70d7-4012-8923-b9ed12062416")
+			(uuid "134a0e4c-37da-4749-a3e0-1b0236f45cce")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5885,7 +6086,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "342c0dc8-1030-4ae1-bb01-fcc3389b8c22")
+			(uuid "e938f943-ebed-4664-9abd-38fa330c6262")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5893,10 +6094,7 @@
 				(justify mirror)
 			)
 		)
-		(property ki_fp_filters "LED*WS2812*-2020_PLCC4*")
 		(path "/da2108b9-172d-4bc5-ae08-602417ef247e")
-		(sheetname "Root")
-		(sheetfile "microled-square.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.57 1.65)
@@ -5906,7 +6104,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "551e67f1-0136-41f4-a2aa-0abfe4d14d66")
+			(uuid "ff9e1fd1-3563-4947-847e-e29306d6b3fc")
 		)
 		(fp_line
 			(start -1.95 0.23)
@@ -5916,7 +6114,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "a513afcd-9268-45ec-8fce-8e7f4f134dfe")
+			(uuid "58860009-44a8-4d83-bd34-49621132e6bd")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -5926,7 +6124,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "cc9051a9-7ea0-48ae-9639-3d0c7c96a29e")
+			(uuid "083a501e-e9a0-4703-914d-4687800fdf1c")
 		)
 		(fp_line
 			(start -0.4425 1.66)
@@ -5936,7 +6134,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "c633ad0e-13e1-4b8e-a767-a29827285647")
+			(uuid "552dfdba-06e8-4b8c-8c0e-3129ca7462e3")
 		)
 		(fp_line
 			(start -0.4475 0.16)
@@ -5946,7 +6144,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "10b4de78-1343-4e9b-9af0-1dfd3b5316d6")
+			(uuid "790581fd-a002-4541-b6e3-b1fa8351d360")
 		)
 		(fp_line
 			(start -1.9475 0.16)
@@ -5956,12 +6154,12 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "2eb60fd0-a49b-4ba3-a449-269eaaa3adef")
+			(uuid "33a02763-42d1-439a-9f89-ab77e2f8c701")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0.225 -0.225 180)
 			(layer "B.Fab")
-			(uuid "6ea6135b-e907-4f05-8c1a-19fefd56a9ec")
+			(uuid "c8842257-a74e-4d6a-804f-9957ef56c6ad")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -5977,7 +6175,7 @@
 			(net 6 "Net-(D3-DOUT)")
 			(pinfunction "DOUT")
 			(pintype "output")
-			(uuid "bf5f7938-813f-4a99-b427-f21475b6ea5c")
+			(uuid "4d5c6ce6-ecb7-484f-ac6d-f873aafae21b")
 		)
 		(pad "2" smd rect
 			(at -0.77 1.32 180)
@@ -5986,7 +6184,7 @@
 			(net 1 "VDD")
 			(pinfunction "VDD")
 			(pintype "power_in")
-			(uuid "d28dbc0d-7f46-44ee-969b-66a610b994de")
+			(uuid "3451c6a2-08e7-4180-b480-7fc9f7548c6a")
 		)
 		(pad "3" smd rect
 			(at -1.62 0.47 180)
@@ -5995,7 +6193,7 @@
 			(net 2 "GND")
 			(pinfunction "GND")
 			(pintype "power_in")
-			(uuid "694ed099-d2ec-4c9d-90ba-709e306fec1d")
+			(uuid "db607afa-d255-481c-8fc4-e3b8033ed248")
 		)
 		(pad "4" smd rect
 			(at -0.77 0.47 90)
@@ -6004,7 +6202,7 @@
 			(net 5 "Net-(D2-DOUT)")
 			(pinfunction "DIN")
 			(pintype "input")
-			(uuid "3d14cd32-d332-4e75-a91c-c3119ecd8a0e")
+			(uuid "83cbd22e-29f2-4e43-9abe-b33716a074a8")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl"
 			(offset
@@ -6012,6 +6210,17 @@
 			)
 			(scale
 				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/library/3d/WS2812B.step"
+			(offset
+				(xyz -1.7 0.4 0)
+			)
+			(scale
+				(xyz 0.2 0.2 0.3)
 			)
 			(rotate
 				(xyz 0 0 0)
